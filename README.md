@@ -34,4 +34,4 @@ O código em `view.py` (ponto extra) desenha o grafo e destaca o caminho Hamilto
 - Python 3.8 ou superior
 - Bibliotecas (para visualização, ponto extra):
   ```bash
-  pip install -r requirements.txt
+  pip install 
